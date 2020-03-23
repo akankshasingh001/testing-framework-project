@@ -11,5 +11,8 @@
   "license": "ISC",
   "bin": {
     "tfp": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
   }
 }
